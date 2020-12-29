@@ -1,0 +1,9 @@
+.content{
+    display: flex;
+    padding: 30px;
+    margin: 20px;
+}
+
+.content h1{
+    margin-left: 30px;
+}
